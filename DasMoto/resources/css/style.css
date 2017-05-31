@@ -1,0 +1,48 @@
+h1 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  display: block;
+
+}
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+
+}
+h3 {
+  color: white;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+#frame {
+  background-color: lightcoral;
+}
+#paint {
+  background-color: skyblue;
+}
+body {
+  background-image: url("https://wallpaperstock.net/autumn-forest--creek-painting-wallpapers_44901_1920x1200.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  color: white;
+  font-family: sans-serif;
+  font-size: 1em;
+
+}
+img {
+  border: solid black;
+}

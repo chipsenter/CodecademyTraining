@@ -1,0 +1,45 @@
+body {
+  background-image: url("https://c1.staticflickr.com/6/5492/11435814154_84478988fb_b.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+html {
+  font-family: Helvetica,sans-serif;
+}
+h1 {
+  color: rgb(20, 100, 170);
+  font-weight: bold;
+  font-style: italic;
+  font-size: 6em;
+  text-shadow: 5px 3px green;
+  text-align: center;
+}
+h2 {
+  color: rgb(20, 100, 170);
+  font-weight: bold;
+  text-shadow: 2px 3px green;
+  text-align: center;
+}
+h3 {
+  color: rgb(20, 100, 170);
+  font-weight: bolder;
+  text-align: center;
+}
+li {
+  text-align: center;
+
+}
+
+div.ol {
+  width: 200px;
+}
+
+div.photo {
+    width: 600px;
+}
+
+div.beaches {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

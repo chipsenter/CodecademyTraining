@@ -1,0 +1,38 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+h1 {
+  color: blue;
+  font-size: 100px;
+  font-family: fantasy;
+  font-style: italic;
+  text-align: center;
+  background-color: green;
+  opacity: 0.75;
+  text-shadow: 3px 2px red;
+}
+h2 {
+  color: blue;
+
+}
+
+p,
+li {
+  font-size: 20px;
+  color: white;
+  font-family: Arial;
+}
+
+
+a {
+  text-decoration: none;
+  color: red;
+}
+
+body {
+  background-image:url("http://www.mrwallpaper.com/wallpapers/motocross-dirt-hd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
