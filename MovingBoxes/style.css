@@ -1,0 +1,25 @@
+/*div {
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  float: right;
+}*/
+
+#one {
+  background-color: green;
+}
+#two {
+  background-color: red;
+}
+#three {
+  background-color: blue;
+}
+#four {
+  background-color: yellow;
+}
+body{
+  background-color: black;
+  text-align: center;
+}
